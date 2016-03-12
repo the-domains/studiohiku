@@ -4,7 +4,7 @@
         <description><![CDATA[StudioHiku]]></description>
         <link>https://thegrid.ai/studiohiku/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 04:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 04:32:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/studiohiku/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,11 @@
         </item>
         <item>
             <title><![CDATA[My Work]]></title>
-            <description><![CDATA[<article><h1>My Work</h1><p></p></article>]]></description>
+            <description><![CDATA[<article><h1>My Work</h1><p>My
+Work</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f41e9811-6a28-4355-b5d5-414b7c42a1ba.png"></article>]]></description>
             <link>https://thegrid.ai/studiohiku/my-work/index.html</link>
             <guid isPermaLink="false">7562696e-609d-486f-af4d-068a55bc5bc1</guid>
-            <pubDate>Sat, 12 Mar 2016 04:29:09 GMT</pubDate>
+            <pubDate>Sat, 12 Mar 2016 04:31:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>

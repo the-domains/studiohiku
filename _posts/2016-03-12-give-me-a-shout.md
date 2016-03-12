@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Give Me a Shout
-datePublished: '2016-03-12T04:40:07.266Z'
-dateModified: '2016-03-12T04:39:57.582Z'
+datePublished: '2016-03-12T04:40:45.238Z'
+dateModified: '2016-03-12T04:40:33.016Z'
 title: Give Me A Shout
 author: []
+sourcePath: _posts/2016-03-12-give-me-a-shout.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-give-me-a-shout.md
-published: true
 url: give-me-a-shout/index.html
 _type: Article
 

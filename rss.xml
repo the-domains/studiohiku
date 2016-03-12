@@ -4,8 +4,15 @@
         <description><![CDATA[StudioHiku]]></description>
         <link>https://thegrid.ai/studiohiku/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 04:32:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 04:33:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/studiohiku/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b07efc38ff87b8fa07ac461cf8cc622c21197886.png"></article>]]></description>
+            <link>https://thegrid.ai/studiohiku/about-me/index.html</link>
+            <guid isPermaLink="false">5588d183-636e-49ce-9df6-19fbe018d1ea</guid>
+            <pubDate>Sat, 12 Mar 2016 04:33:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/60fd7492-0f8e-46a4-9c86-9eb4c7c7506c.png">]]></description>
@@ -16,7 +23,7 @@
         <item>
             <title><![CDATA[My Work]]></title>
             <description><![CDATA[<article><h1>My Work</h1><p>My
-Work</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f41e9811-6a28-4355-b5d5-414b7c42a1ba.png"></article>]]></description>
+Work</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f151e58323f4815c2dc1b747bd0cded483787647.png"></article>]]></description>
             <link>https://thegrid.ai/studiohiku/my-work/index.html</link>
             <guid isPermaLink="false">7562696e-609d-486f-af4d-068a55bc5bc1</guid>
             <pubDate>Sat, 12 Mar 2016 04:31:22 GMT</pubDate>
